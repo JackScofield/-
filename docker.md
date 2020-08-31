@@ -29,3 +29,4 @@ FROM scratch
 
 
 
+docker run -dp 9090:9090 -v /tmp/prometheus/prometheus.yml:/etc/prometheus/prometheus.yml -v /tmp/prometheus/alert.rules:/etc/prometheus/alert.rules --name prometheus prom/prometheus
