@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="379d5a65-2bb0-4441-ba86-ccf6c5f79209" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="GOROOT" path="C:\Go" />
+  <component name="ProjectId" id="1giktBlx6fmkWHdbfvSjAS7MhJ3" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="go.sdk.automatically.set" value="true" />
+    <property name="go.tried.to.enable.integration.vgo.integrator" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../node_exporter" />
+    <property name="settings.editor.selected.configurable" value="go.vgo" />
+  </component>
+  <component name="RunManager" selected="Go Build.go build gopl.io/ch1/lissajous">
+    <configuration name="go build gopl.io/ch1/lissajous" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="gopl.io" />
+      <working_directory value="$PROJECT_DIR$" />
+      <parameters value="web" />
+      <kind value="PACKAGE" />
+      <filePath value="$PROJECT_DIR$/ch1/lissajous/main.go" />
+      <package value="gopl.io/ch1/lissajous" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build gopl.io/ch1/server2" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="gopl.io" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="PACKAGE" />
+      <filePath value="$PROJECT_DIR$/ch1/server2/main.go" />
+      <package value="gopl.io/ch1/server2" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build gopl.io/ch1/server3" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="gopl.io" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="PACKAGE" />
+      <filePath value="$PROJECT_DIR$/ch1/server3/main.go" />
+      <package value="gopl.io/ch1/server3" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build gopl.io/ch7/bytecounter" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="gopl.io" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="PACKAGE" />
+      <filePath value="$PROJECT_DIR$/ch7/bytecounter/main.go" />
+      <package value="gopl.io/ch7/bytecounter" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build gopl.io/ch7/http1" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="gopl.io" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="PACKAGE" />
+      <filePath value="$PROJECT_DIR$/ch7/http1/main.go" />
+      <package value="gopl.io/ch7/http1" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Go Build.go build gopl.io/ch7/bytecounter" />
+      <item itemvalue="Go Build.go build gopl.io/ch7/http1" />
+      <item itemvalue="Go Build.go build gopl.io/ch1/server2" />
+      <item itemvalue="Go Build.go build gopl.io/ch1/server3" />
+      <item itemvalue="Go Build.go build gopl.io/ch1/lissajous" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Build.go build gopl.io/ch1/lissajous" />
+        <item itemvalue="Go Build.go build gopl.io/ch1/server3" />
+        <item itemvalue="Go Build.go build gopl.io/ch1/server2" />
+        <item itemvalue="Go Build.go build gopl.io/ch7/http1" />
+        <item itemvalue="Go Build.go build gopl.io/ch7/bytecounter" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="379d5a65-2bb0-4441-ba86-ccf6c5f79209" name="Default Changelist" comment="" />
+      <created>1598605013093</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1598605013093</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VgoProject">
+    <integration-enabled>true</integration-enabled>
+    <environment>
+      <map>
+        <entry key="GOPROXY" value="http://golang.org" />
+      </map>
+    </environment>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="561" y="246" key="#Go_Modules" timestamp="1598605887809">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="561" y="246" key="#Go_Modules/0.0.1536.824@0.0.1536.824" timestamp="1598605887809" />
+    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1598868830554">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1598868830554" />
+    <state x="926" y="275" key="EnvironmentVariablesDialog" timestamp="1598605975257">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="926" y="275" key="EnvironmentVariablesDialog/0.0.1536.824@0.0.1536.824" timestamp="1598605975257" />
+    <state x="592" y="218" key="FileChooserDialogImpl" timestamp="1598864546304">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="742" y="-805" key="FileChooserDialogImpl/0.0.1536.824/2.-1080.1920.1040@2.-1080.1920.1040" timestamp="1598709750982" />
+    <state x="592" y="218" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1598864546304" />
+    <state width="1493" height="125" key="GridCell.Tab.0.bottom" timestamp="1598869294527">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="125" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1598869294527" />
+    <state width="1493" height="125" key="GridCell.Tab.0.center" timestamp="1598869294527">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="125" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1598869294527" />
+    <state width="1493" height="125" key="GridCell.Tab.0.left" timestamp="1598869294527">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="125" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1598869294527" />
+    <state width="1493" height="125" key="GridCell.Tab.0.right" timestamp="1598869294527">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="125" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1598869294527" />
+    <state width="1493" height="261" key="GridCell.Tab.1.bottom" timestamp="1598611191827">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1598611191827" />
+    <state width="1493" height="261" key="GridCell.Tab.1.center" timestamp="1598611191827">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1598611191827" />
+    <state width="1493" height="261" key="GridCell.Tab.1.left" timestamp="1598611191827">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1598611191827" />
+    <state width="1493" height="261" key="GridCell.Tab.1.right" timestamp="1598611191827">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1598611191827" />
+    <state x="-25" y="117" width="996" height="707" key="SettingsEditor" timestamp="1598606011761">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="-25" y="117" width="996" height="707" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1598606011761" />
+  </component>
+</project>
